@@ -12,5 +12,8 @@ Top left panel is the `payload` below it is the `WSL terminal` where i run this 
 
 ---
 
+![image](https://github.com/emreutkan/evade/assets/127414322/0dd9bf31-0ae2-4dc7-9011-dd76f122e88a)
+
+
 # Disclaimer
 This tool is designed for educational and research purposes only. It demonstrates the principles of payload encryption and self-decrypting logic to evade antivirus detection. The primary intention is to help cybersecurity professionals understand how such techniques might be used by malicious actors and to develop better defense mechanisms against them.
